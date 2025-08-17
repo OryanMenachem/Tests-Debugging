@@ -1,0 +1,21 @@
+{
+  "name": "17_08_25",
+  "version": "1.0.0",
+  "main": "functions.js",
+  "scripts": {
+    "test": "node functions.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OryanMenachem/Tests-Debugging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OryanMenachem/Tests-Debugging/issues"
+  },
+  "homepage": "https://github.com/OryanMenachem/Tests-Debugging#readme",
+  "description": ""
+}
